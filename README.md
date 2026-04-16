@@ -3,6 +3,16 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+# Installing local repo for Windows
+
+First install ruby:
+
+https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.9-1/rubyinstaller-devkit-3.4.9-1-x64.exe
+
+A terminal window will pop up. Choose option 3 (MSYS2 and MINGW development toolchain). This replaces the build-essential gcc make requirement in your Linux notes.
+
+
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
